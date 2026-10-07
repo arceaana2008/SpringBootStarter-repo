@@ -8,6 +8,6 @@ public class HelloController {
 
     @GetMapping("/start")
     public String introducere(){
-        return "Nume Prenume";
+        return "Ana Arcea";
     }
 }
